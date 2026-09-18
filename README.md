@@ -140,10 +140,11 @@ https://github.com/rahulchaudhari7/-00-days-of-code
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulchaudhari7/rahulchaudhari7/output/github-contribution-grid-snake.svg" />
-</p>
+<h2 align="center">📈 GitHub Contributions</h2>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulchaudhari7&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" />
+</p>
 ---
 
 ## 🐍 Contribution Snake
