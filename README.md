@@ -149,7 +149,7 @@ https://github.com/rahulchaudhari7/-00-days-of-code
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulchaudhari7/rahulchaudhari7/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/rahulchaudhari7/rahulchaudhari7/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
