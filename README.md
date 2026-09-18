@@ -124,10 +124,10 @@ I'm documenting my coding journey through a **100 Days of Code** challenge, focu
 
 ---
 
-## 🔥 Contribution Streak
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahulchaudhari7&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/rahulchaudhari7/rahulchaudhari7/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
