@@ -141,7 +141,7 @@ https://github.com/rahulchaudhari7/-00-days-of-code
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahulchaudhari7&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/rahulchaudhari7/rahulchaudhari7/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
