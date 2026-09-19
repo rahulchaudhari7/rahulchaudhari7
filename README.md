@@ -134,9 +134,7 @@ https://github.com/rahulchaudhari7/-00-days-of-code
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhari7&layout=compact&theme=tokyonight&hide_border=true"
-       alt="Top Languages" />
+  <img src="./github-metrics.svg" alt="GitHub Analytics" width="95%">
 </p>
 ---
 
