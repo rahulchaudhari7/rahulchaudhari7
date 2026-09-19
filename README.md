@@ -134,7 +134,7 @@ https://github.com/rahulchaudhari7/-00-days-of-code
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Analytics" width="95%">
+  <img src="./github-metrics.svg" width="95%" alt="GitHub Analytics">
 </p>
 ---
 
