@@ -134,8 +134,11 @@ https://github.com/rahulchaudhari7/-00-days-of-code
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rahulchaudhari7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhari7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulchaudhari7&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhari7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
