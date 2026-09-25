@@ -2,7 +2,7 @@
 
 ### 🤖 AI/ML Enthusiast • Full-Stack Developer • Software Engineering Student
 
-I’m a Computer Science student passionate about building **AI-powered applications, intelligent systems, and modern full-stack products**.
+I’m a Computer Science student passionate about building new projects **AI-powered applications, intelligent systems, and modern full-stack products**.
 
 I enjoy turning ideas into real-world projects using **Python, Machine Learning, React, Node.js, and MongoDB**.
 
